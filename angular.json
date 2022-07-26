@@ -31,11 +31,6 @@
               "src/styles.scss"
             ],
             "scripts": [],
-            "customWebpackConfig": {
-              "path": "extra-webpack.config.js",
-              "libraryName": "deposit-manager-ui",
-              "libraryTarget": "umd"
-            },
             "deployUrl": "http://localhost:4202/"
           },
           "configurations": {
